@@ -48,3 +48,7 @@ It means that you can:
 ## Credits
 
 Created by [Kévin Dunglas](https://dunglas.fr). Commercial support is available at [Les-Tilleuls.coop](https://les-tilleuls.coop).
+
+## References
+
+https://zenn.dev/ttskch/books/a3800fc0912fbb/viewer/1
